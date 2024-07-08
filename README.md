@@ -6,5 +6,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kamesan1577&theme=swift&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
-
-![test](https://796e-114-142-179-127.ngrok-free.app/api/images/cards/user/repo1)
